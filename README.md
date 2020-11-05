@@ -32,9 +32,9 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following link demonstrates the application functionality:
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+https://vialoraine.github.io/Work-Day-Scheduler/
 
 ## Review
 
